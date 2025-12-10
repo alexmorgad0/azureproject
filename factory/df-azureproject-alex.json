@@ -1,0 +1,9 @@
+{
+	"name": "df-azureproject-alex",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0e032a6f-5867-4e7c-852f-f6fe2e4eb1d9",
+		"tenantId": "b1c0a405-98ee-4ea1-b751-a0c7560b6124"
+	}
+}
